@@ -3,7 +3,6 @@
 👩🏻‍💻 I'm a UX designer sharing her recent work and projects in tech <br/>
 📚 Studying at Loughborough University <br/>
 🧶 Crazy about crocheting <br/>
-📖 I enjoy reading too <br/>
 📕 Currently learning how to use Arduino Uno for prototyping <br/>
 
 # 💻 Tech Stack:
