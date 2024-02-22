@@ -4,7 +4,7 @@
 📚 Studying at Loughborough University <br/>
 🧶 Crazy about crocheting <br/>
 📖 I enjoy reading too <br/>
-📕 Currently learning how to use the Arduino Uno
+📕 Currently learning how to use Arduino Uno for prototyping <br/>
 
 # 💻 Tech Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
